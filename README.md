@@ -1,6 +1,5 @@
 # shivani
-[<img src=0_yBvA5CnEX3Sd4aod.gif-1.medium.com/fit/t/1500/380/1*OF0xEMkWBv-69zvmNs6RDQ.gif" style="max-width: 70%; display: inline-block;" data-target="animated-image.originalImage">
-0_yBvA5CnEX3Sd4aod.gif](https://github.com/Shivanisrisr/shivani/blob/3cd7a72991a2013c9b119d3e31790344072df1b5/54397d4a1c82d97439e8ed225e4725c7.gif)
+0_yBvA5CnEX3Sd4aod.gif
 
                                                           # 💫 About Me:
 **Title**<br>Hi 👋, I'm  shivani<br>Subtitle<br>Hello! I'm Shivani Sri S R, currently pursuing a Bachelor's degree in Computer Science at **S.A Engineering College**. My passion lies in programming, where I excel in languages such as C and Java. Additionally, I have a strong foundation in **software testing**, encompassing both manual** **testing and automated testing** **using Selenium**. Proficient in SQL, I bring a well-rounded skill set to the world of **computer science**. I am dedicated to continuous learning and am excited about the opportunities that lie ahead in the dynamic field of technology.<br>**🌱 I’m currently learning**   software testeing<br>**📫 How to reach me**  shivanisri2306@gmail.com<br>**⚡ Fun fact Debugging** is like being the detective in a crime movie where you are also the murderer.
