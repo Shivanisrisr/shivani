@@ -8,7 +8,7 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/srishivani23sr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivani sri s r) 
 
-<img src=ss.gif alt="MasterHead" data-canonical-src="https://cdn-images-1.medium.com/fit/t/800/80/1*OF0xEMkWBv-69zvmNs6RDQ.gif" style="max-width: 70%; display: inline-block;" data-target="animated-image.originalImage">
+<img src=ss.gif alt="MasterHead" data-canonical-src="https://cdn-images-1.medium.com/fit/t/500/80/1*OF0xEMkWBv-69zvmNs6RDQ.gif" style="max-width: 10%; display: inline-block;" data-target="animated-image.originalImage">
 
 
 # 💻 Tech Stack:
