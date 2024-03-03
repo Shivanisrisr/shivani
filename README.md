@@ -6,7 +6,7 @@
 Feel free to reach out if you have any questions or would like to connect:
 
 - Email: your.email@example.com
-- LinkedIn: [Varun S](www.linkedin.com/in/shivani2306)
+- LinkedIn: [shivani](www.linkedin.com/in/shivani2306)
 
 Looking forward to sharing and collaborating on exciting projects! 🚀
 
