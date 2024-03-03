@@ -1,5 +1,5 @@
 # shivani
-
+0_yBvA5CnEX3Sd4aod.gif
 
                                                                      # 💫 About Me:
 **Title**<br>Hi 👋, I'm  shivani<br>Subtitle<br>Hello! I'm Shivani Sri S R, currently pursuing a Bachelor's degree in Computer Science at **S.A Engineering College**. My passion lies in programming, where I excel in languages such as C and Java. Additionally, I have a strong foundation in **software testing**, encompassing both manual** **testing and automated testing** **using Selenium**. Proficient in SQL, I bring a well-rounded skill set to the world of **computer science**. I am dedicated to continuous learning and am excited about the opportunities that lie ahead in the dynamic field of technology.<br>**🌱 I’m currently learning**   software testeing<br>**📫 How to reach me**  shivanisri2306@gmail.com<br>**⚡ Fun fact Debugging** is like being the detective in a crime movie where you are also the murderer.
