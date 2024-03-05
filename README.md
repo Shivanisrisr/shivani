@@ -1,5 +1,5 @@
 # shivani
-<img src=ss.gif alt="MasterHead" data-canonical-src="(https://github.com/Shivanisrisr/shivani/blob/66928edb7310331eedf477fece2c8e0a99d7cb4d/0_yBvA5CnEX3Sd4aod.gif)" style="max-width: 10%; display: inline-block;" data-target="animated-image.originalImage">
+<img src=ss.gif alt="MasterHead" data-canonical-src="https://cdn-images-1.medium.com/fit/t/500/80/1*OF0xEMkWBv-69zvmNs6RDQ.gif" style="max-width: 10%; display: inline-block;" data-target="animated-image.originalImage">
 
 
                                                           # 💫 About Me:
