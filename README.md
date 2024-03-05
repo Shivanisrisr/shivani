@@ -1,6 +1,6 @@
 # shivani
 
-<img src="vv.gif" alt="My Project Logo" width="500" height="320">  <img src="soft-ware-testing.gif" alt="My Project Logo" width="500" height="350"> 
+<img src="vv.gif" alt="My Project Logo" width="480" height="320">  <img src="soft-ware-testing.gif" alt="My Project Logo" width="500" height="350"> 
 
 
 **💫 About Me:**
