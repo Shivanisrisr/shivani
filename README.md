@@ -1,5 +1,5 @@
 # shivani
-<img src="vv.gif" alt="My Project Logo" width="600" height="500">
+<img src="vv.gif" alt="My Project Logo" width="400" height="300"> <img src="vv.gif" alt="My Project Logo" width="400" height="300"> 
 
 
 
