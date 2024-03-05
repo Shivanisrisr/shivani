@@ -11,6 +11,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/srishivani23sr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivani sri s r) 
  <div style="text-align:center;">
   <img src="ss.gif" alt="My Project Logo" width="200" height="100">
+  <img src="ss.gif" alt="My Project Logo" width="200" height="100">
  <div style="text-align:center;"> <img src="ss.gif" alt="My Project Logo" width="200" height="100">  <img src="qaFeature_img.gif" alt="My Project Logo"  width="520" height="340"> 
 
 # 💻 Tech Stack:
