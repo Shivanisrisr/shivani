@@ -13,7 +13,7 @@
   <img src="ss.gif" alt="My Project Logo" width="200" height="100">
 </div>
 
- <div style="text-align:center;"> <img src="ss.gif" alt="My Project Logo" width="200" height="100"> </div> <img src="qaFeature_img.gif" alt="My Project Logo" width="520" height="340"> 
+ <div style="text-align:center;"> <img src="ss.gif" alt="My Project Logo" width="200" height="100"> </div>  <div style="text-align:center;"><img src="qaFeature_img.gif" alt="My Project Logo" width="520" height="340"> </div>
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
