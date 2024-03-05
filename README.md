@@ -10,8 +10,8 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/srishivani23sr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivani sri s r) 
 
-<img src="ss.gif" alt="My Project Logo" width="400" height="300"> <img src="qaFeature_img.gif" alt="My Project Logo" width="520" height="340"> 
-
+<img src="ss.gif" alt="My Project Logo" width="200" height="100"> <img src="qaFeature_img.gif" alt="My Project Logo" width="520" height="340"> 
+<img src="ss.gif" alt="My Project Logo" width="200" height="100">
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 # 📊 GitHub Stats:
