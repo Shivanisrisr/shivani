@@ -1,6 +1,5 @@
 # shivani
-<img src=vv.gif alt="MasterHead" data-canonical-src="https://cdn-images-1.medium.com/fit/t/10/80/1*OF0xEMkWBv-69zvmNs6RDQ.gif" style="max-width: 1%; display: inline-block;" data-target="animated-image.originalImage">
-<img src="vv.gif" alt="My Project Logo" width="300" height="200">
+<img src="vv.gif" alt="My Project Logo" width="600" height="500">
 
 
 
